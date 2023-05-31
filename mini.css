@@ -79,7 +79,7 @@ span{
 .column1{
     width: 48%;
     height: 30vh;
-    background: url("./image1/istockphoto-1306511017-170667a.jpg")no-repeat center/cover;
+    background: url("./images/istockphoto-1306511017-170667a.jpg")no-repeat center/cover;
     /* margin-right: 4%; */
     border-radius: 10px;
 }
@@ -87,7 +87,7 @@ span{
     width: 48%;
     height: 30vh;
     border-radius: 10px;
-    background: url("./image1/basked-bread-with-wheat_23-2148359027.avif")no-repeat center/cover;
+    background: url("./images/basked-bread-with-wheat_23-2148359027.avif")no-repeat center/cover;
 }
 .fruit{
     margin: 40px 0 0 20px;
@@ -304,7 +304,7 @@ span{
     height: 70vh;
     border: 1px solid black;
     border-radius: 7px;
-    background: url("./image1/depositphotos_30638835-stock-photo-coffee.jpg") no-repeat center/cover;
+    background: url("./images/depositphotos_30638835-stock-photo-coffee.jpg") no-repeat center/cover;
 }
 .column9{
     width: 24%;
